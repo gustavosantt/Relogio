@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+  }
+
+.fundo{
+    background:linear-gradient(90deg, black, #58015a);
+    width: 100%;
+    height: 100%;
+}
+.relogio{
+    text-align: center;
+    font-size: 100px;
+    padding: 400px;
+    gap: 1000%;
+
+}
+.relogio p{
+    color: white;
+    font-size: 20px;
+}
+.span{
+    background: -moz-linear-gradient(45 deg, );
+    border-radius: 80px;
+    height: 120px;
+    align-items: center;
+    color: rgb(1, 1, 1);
+
+}
+.span span{
+    background-color: white;
+    border-radius: 30px;
+    border: solid rgb(29, 55, 205) 2px;
+}
+
